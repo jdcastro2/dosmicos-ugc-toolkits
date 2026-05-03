@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 150" role="img" aria-labelledby="title">
+<title id="title">dosmicos</title>
+<g fill="#000000">
+  <circle cx="85" cy="76" r="58"/>
+  <circle cx="28" cy="76" r="25"/>
+  <circle cx="142" cy="76" r="25"/>
+  <circle cx="28" cy="76" r="15" fill="#fff"/>
+  <circle cx="142" cy="76" r="15" fill="#fff"/>
+  <rect x="42" y="45" width="86" height="64" rx="26" fill="#fff"/>
+  <circle cx="64" cy="70" r="7"/>
+  <circle cx="106" cy="70" r="7"/>
+  <circle cx="78" cy="91" r="3.5"/>
+  <circle cx="92" cy="91" r="3.5"/>
+  <path d="M70 103c8 8 22 8 30 0" fill="none" stroke="#000" stroke-width="6" stroke-linecap="round"/>
+  <text x="170" y="113" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="118" font-weight="900" letter-spacing="-8">dosmicos</text>
+</g>
+</svg>
